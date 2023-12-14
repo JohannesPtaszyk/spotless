@@ -122,7 +122,7 @@ dependencies {
 	sortPomCompileOnly 'com.github.ekryd.sortpom:sortpom-sorter:3.2.1'
 	sortPomCompileOnly 'org.slf4j:slf4j-api:2.0.0'
 	// zjsonPatch
-	zjsonPatchCompileOnly 'com.flipkart.zjsonpatch:zjsonpatch:0.4.14'
+	zjsonPatchCompileOnly 'com.flipkart.zjsonpatch:zjsonpatch:0.4.16'
 }
 
 // we'll hold the core lib to a high standard
